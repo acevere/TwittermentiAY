@@ -1,11 +1,10 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+This project is a practice for using CoreML.
 
-#  Twittermenti
+Machine learning model trained to distinguish emotions in phrases.
 
+The app analyzes people's sentiment towards a topic by going through the related tweets using Twitter's open API.
 
+Credit to AppBrewery.
 
-
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+![Alt Text](twittermenti_demo.gif)
